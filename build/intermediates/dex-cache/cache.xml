@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/4ad0d19fae4b3a774fb566585b118c9fbd65f396/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f14b1ebaf50c9c119b0b892f696d2a8e019ee53a">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8ca9d4d6f121da5e59dac477198807bb6906d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/77298b75871c279b326de0b07c27ef2ccd04bd92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="28e6b4fd73c50ebde0dc4e0590037b755581add5">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2daa7027e4d20d066d8d3fc138bdd5b17c82947a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7fa61708cfbbe6e077c732256641135f2997bc9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/b4c72ca0040bc5e388f8f30c3244ec93f87040e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d81fa9f0301e00fcf5e444b372267492eba17fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/6e56bb5de41260ea2967b06db93411e7adcc0fe3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65ba6979322876fda8d07c08d507e59d7c868daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/1697869fc2945021e0ca3e20d43515993508f2c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c28d63152df83024b3a941178bc8f6a37e57d32e">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74da198615dfb6b0eb414191abc0d27dfcf12e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/8c13565f375e3830506feeb2d0e60cbe6d434f1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49ea7b1a5c6ed42673707575735ce07fd7491ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/378fb0d294ef0864bad04c35afe25d4594015ae2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1af7fe5286e3aefcc341f24918b769edc9455b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/.android/build-cache/d61ba50fc2a72863a053d14060979f34b9e32fa7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60854537add38b30efeb9b8ae7f5cc46159eb4ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a62183d1e1e95ffa4080e62bde90adbf70f3bd13">
+        <dex dex="/home/ravi/AndroidStudioProjects/OneSignalInt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40972414fc06f03fda92d05445d9eca6fce0c1af/classes.dex" />
+    </item>
+
+</items>
