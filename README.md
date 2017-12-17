@@ -1,5 +1,5 @@
 ## OneSignal Basic Setup
->Get Push Notifications from OneSignal console to Android App
+>Get Push Notifications from OneSignal console to Android App. The app has no background service atm, so the app has to be running in order to receive Notifications.
 
 ### Screenshots
 [![Screenshot_20171216-210533.jpg](https://s7.postimg.org/gf2qejpgr/Screenshot_20171216-210533.jpg)](https://postimg.org/image/renxq5fvr/)
@@ -7,7 +7,7 @@
 [![Screenshot_20171216-212244.jpg](https://s7.postimg.org/7k1w41ntn/Screenshot_20171216-212244.jpg)](https://postimg.org/image/89kogeod3/)
 
 ### Installation ###
-* Since the Android app does not do much I'll straightly show you the     `app/build.gradle` , `AppController` which is a singleton class and the `AndroidManifest.xml ` which will help you setup OneSignal PN on android.
+* Since the Android app does not do much I'll straightly show you the     `app/build.gradle` , `AppController` which is a class that extends `Application` class and the `AndroidManifest.xml ` which will help you setup OneSignal PN on android.
 * But if you want to try this repository's app before you go all on your own. Just Clone the repository, change the onesignal app id in  app/build.gradle with your own OneSignal app id and just send a PN from the OneSignal console.
 
 #### app/build.gradle
